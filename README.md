@@ -39,7 +39,7 @@ scalability and cross-chain interoperability.
 4. 8 weeks – Pilot Minting Service – refine the service and prove the viability
 5. 4 weeks – Launch - refine the proof of concept through user feedback into a minimally viable
 product
-### Phase 2: WordPress Minting Plugin - 36 weeks
+### Phase 2: [Content Coin Mint WordPress Plugin](https://github.com/jonny827/content-coin-mint) - 36 weeks
 Publish an open-source WordPress plugin that leverages the Content Service to integrate
 minting directly into the WordPress interface and media workflow. – 36 weeks
 1. 6 weeks - Design a WordPress plugin that that uses the Content Service to allow users to
